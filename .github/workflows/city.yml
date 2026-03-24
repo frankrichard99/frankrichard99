@@ -23,7 +23,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           
-          filename: profile-3d-city.svg
+          filename: profile-3d-city.svg 
           
           base: ""
           plugin_isocalendar: yes
