@@ -5,9 +5,14 @@
 </p>
 
 <p align="center">
-[![GitHub followers](https://img.shields.io/github/followers/frankrichard99?style=for-the-badge&logo=github&color=00FFFF&labelColor=161B22)](https://github.com/frankrichard99)
-[![Profile Views](https://komarev.com/ghpvc/?username=frankrichard99&style=for-the-badge&color=00FFFF&labelColor=161B22)](https://github.com/frankrichard99)
+  <a href="https://komarev.com/ghpvc/?username=frankrichard99">
+    <img src="https://komarev.com/ghpvc/?username=frankrichard99&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
+  </a>
+  <a href="https://github.com/frankrichard99">
+    <img src="https://img.shields.io/github/followers/frankrichard99?label=Followers&style=flat-square&color=00FFFF" alt="followers" />
+  </a>
 </p>
+
 
 
 <img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
