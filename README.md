@@ -19,7 +19,7 @@
 
 ## 🧠 My Focus Areas
 - Full Stack Development (Web & App)
-- ML
+- Machine Learning
 - Open Source Collaborations
 
 
