@@ -20,6 +20,7 @@
 ## 🧠 My Focus Areas
 - Full Stack Development (Web & App)
 - Machine Learning
+- Blockchain Development
 - Open Source Collaborations
 
 
